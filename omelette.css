@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    background-color: hsl(330, 100%, 98%);
+    /* min-height: 100vh ; */
+
+}
+
+.parentdiv {
+    display: flex;
+    flex-direction: column;
+    Justify-content:center;   
+    width: 620px; 
+    border-radius: 30px;
+    padding: 40px;
+    background-color: hsl(0, 0%, 100%); 
+    color: hsl(24, 5%, 18%); 
+    font-size: 16px
+  }
+
+img{width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  h1 {font-family: Young Serif, serif;
+  font-weight: 600px;
+  color: hsl(24, 5%, 18%);
+  line-height: 1.5;
+  margin-bottom:1px;
+  
+}
+
+  p {font-family: Outfit, sans-serif;
+  font-size: 14px;
+  line-spacing: 1.5;
+  color: hsl(24, 5%, 18%);}
+
+  .preptime {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    width: 600px;
+    background-color: hsl(330, 100%, 98%);
+    margin-bottom: 4px;
+  }
+
+  h3 { 
+    font-family: Outfit, serif;
+    font-weight: 100px;
+    font-size: 15px;
+    color: hsl(332, 51%, 32%);
+    padding-left:10px;
+  }
+
+  .ingredients{
+    /* width: 805px; */
+/* margin: 15px; */
+    line-height: 1.5;
+    } 
+
+  .uli {
+  padding-left: 0;
+  margin-top:7px;
+  margin-left: 0;
+  list-style-position: inside; /* Keeps bullets aligned with the text block */
+}
+  h2{
+    color:hsl(14, 45%, 36%)
+  }
+
+  .nutrition {
+    font-family: outfit, sans-serif;
+    max-width: 488px;
+  }
+
+.nutrition h2 {
+  font-family: Young Serif, serif;
+  font-size: 22px;
+  font-weight:500;
+  color: hsl(14, 45%, 36%);
+  margin: 0 0 8px;
+  padding-bottom:10px;
+  border-bottom:1.5px solid #7a3020;
+}
+
+.nutrition p {
+font-size: 13px;
+color:#666;
+margin: 12px 0 20px;
+line-height: 1.5;
+}
+
+.nutrition-table {
+  width:100%;
+  border-collapse: collapse;
+}
+
+.nutrition-table td {
+  padding: 13px 12px;
+  font-size: 14px;
+  border-bottom: 0.5px solid #e0e0e0;
+  color:#222;
+}
+
+.attribution {
+  text-align: center;
+}
+  
+  /* .nutrition-table td:last-child {
+    text-align: right;
+    font-weight: 500;
+    color: #7a3020;
+  }
+
+  .nutrition-table tr:last-child td {
+    border-bottom: none;
+  }
+   */

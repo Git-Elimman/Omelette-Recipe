@@ -18,8 +18,7 @@ Omelette_Screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://git-elimman.github.io/Omelette-Recipe/)
 
 ## My process
 
@@ -74,7 +73,7 @@ At first, Claude suggessted Box styling for responsiveness but I wasn't okay wit
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Git-Elimman](https://www.frontendmentor.io/profile/Git-Elimman)
 
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
